@@ -1,0 +1,45 @@
+.searchButton:hover
+{
+    background-color: #d4d9d6;
+}
+
+.searchButton
+{
+    width: 50px;
+    height: 50px;
+}
+
+.stack-top{
+    z-index: 9;
+    margin: 20px;
+}
+
+#iconDiv
+{
+    display: flex;
+    flex-direction: column;
+    height:fit-content;
+    align-items: center;
+    
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.width200{
+    width: 200px;
+}
+
+.width100{
+    width:100px;
+}
+
+.searchButton2
+{
+    width: 150px;
+    height: 50px;
+}
+.btnAtEx{
+    display: flex;
+    justify-content: space-between;
+}
+
